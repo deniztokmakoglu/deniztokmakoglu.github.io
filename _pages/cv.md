@@ -33,7 +33,7 @@ Work experience
 * Research Assistant
   * Koc University [Computational Social Science Lab](https://ma-cssl.com/about-us-1)
   * Period: May 2020 - May 2021
-  * Supervisor: Dr. Merih Angın(https://merihangin.com/about)
+  * Supervisor: [Dr. Merih Angın](https://merihangin.com/about)
   
 Skills
 ======
