@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Deniz Tokmakoglu"
 title_separator          : "-"
 name                     : &name "Deniz"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Graduate student and Research Assistant at the University of Chicago"
+url                      : https://deniztokmakoglu.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/deniztokmakoglu.github.io"
+repository               : "deniztokmakoglu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Deniz Tokmakoglu"
   avatar           : "pp_compressed.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am doing my Master of Science in Computer Science and Public Policy. I want to leverage the power of data for pressing social and developmental matters. My interests are economic development, firm and economic growth, innovation and data ethics."
+  location         : "Chicago, IL"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "denizt@uchicago.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "deniztokmakoglu"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "deniztokmakoglu"
