@@ -85,10 +85,10 @@ author:
   bio              : "I am doing my Master of Science in Computer Science and Public Policy. I want to leverage the power of data for pressing social and developmental matters. My interests are economic development, firm and economic growth, innovation and data ethics."
   location         : "Chicago, IL"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "denizt@uchicago.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "deniztokmakoglu"
   orcid            : 
   pinterest        :
   soundcloud       :
