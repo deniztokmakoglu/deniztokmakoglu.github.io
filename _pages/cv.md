@@ -18,7 +18,7 @@ Education
 
 
 
-Work experience
+Research experience
 ======
 * Research Assistant to Prof. Ufuk Akcigit (The Economics of Science Project)
   * Kenneth C. Griffin Department of Economics at The University of Chicago
@@ -34,6 +34,34 @@ Work experience
   * Koc University [Computational Social Science Lab](https://ma-cssl.com/about-us-1)
   * Period: May 2020 - May 2021
   * Supervisor: [Dr. Merih Angın](https://merihangin.com/about)
+
+Work experience
+======
+
+* Category Brand Management Trainee
+  * Unilever Turkey
+  * Period: March 2019 - September 2020
+
+* Consulting Intern
+  * PwC Turkey
+  * Period: June 2018 - August 2018
+
+* B2B Channel Sales Intern
+  * Samsung Turkey
+  * Period: September 2017 - April 2018 
+
+Leadership
+======
+
+* Member of University of Chicago Harris Student Government
+* [Global Learning and Leadership Program] (https://glls.ku.edu.tr/), Koc University 
+
+Honors & Awards
+======
+
+* Fulbright Turkey | Graduate Student Grand 
+* Deans Honor List for High Academic Performance
+* Vehbi Koc Scholar for High Academic Performance
   
 Skills
 ======
@@ -42,6 +70,3 @@ Skills
 * SQL
 * Stata
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
