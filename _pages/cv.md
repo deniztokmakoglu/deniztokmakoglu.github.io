@@ -54,7 +54,7 @@ Leadership
 ======
 
 * Member of University of Chicago Harris Student Government
-* [Global Learning and Leadership Program] (https://glls.ku.edu.tr/), Koc University 
+* [Global Learning and Leadership Program](https://glls.ku.edu.tr/), Koc University 
 
 Honors & Awards
 ======
