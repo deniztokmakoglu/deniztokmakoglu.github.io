@@ -13,8 +13,8 @@ Education
 ======
 * M.S. in Computational Analysis and Public Policy, University of Chicago, 2022 (expected)
 * B.S. in Industrial Engineering, Koç University, 2020
-** Double Major in International Relations
-** Minor in Economics
+  * Double Major in International Relations
+  * Minor in Economics
 
 
 
