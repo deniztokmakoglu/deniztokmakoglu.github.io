@@ -20,15 +20,15 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant to Prof. Ufuk Akcigit (The Economics of Science Project)
+  * Kenneth C. Griffin Department of Economics at The University of Chicago
+  * Period: March 2021 - Now
+  * Supervisor: Proffesor Ufuk Akcigit
+ 
+* Research Assistant and Data Analyst
+  * World Bank DIME, DeJure Division
+  * Period: January 2021 - May 2021
+  * Supervisor: Daniel Li Chen
   
 Skills
 ======
