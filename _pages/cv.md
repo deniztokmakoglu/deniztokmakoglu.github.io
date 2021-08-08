@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computational Analysis and Public Policy, University of Chicago, 2022 (expected)
+* B.S. in Industrial Engineering, Koç University, 2020
+** Double Major in International Relations
+** Minor in Economics
+
+
 
 Work experience
 ======
